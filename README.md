@@ -2,6 +2,7 @@
 Interfacing FPGA with Ethernet PHY. Designed and Deployed to operate on Zynq 7020 board with RTL8211E Ethernet PHY
 
 Overview
+
 This project demonstrates the design and implementation of an FPGA-based Ethernet communication system. The FPGA interfaces with an Ethernet PHY to establish a TCP/IP communication link. The project implements a layered architecture, including Ethernet, IP, and TCP layers, and processes application-specific data such as handling requests and sending responses over the network.
 
 The system is capable of:
